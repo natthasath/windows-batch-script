@@ -1,2 +1,2 @@
 * linguist-detectable=false
-*.ps1 linguist-detectable=true
+*.bat linguist-detectable=true
